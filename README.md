@@ -13,7 +13,7 @@ I have realized that if I write down the plan for the application before a line 
 * Allow a user to post on his/her own timeline. 
 
 # Fetch the data from Facebook App
-* Firstly, we need to register third party application with the Facebook application and generate required cusotmer key and customer secret.
+* Firstly, we need to (register the third party application)[https://spring.io/guides/gs/register-facebook-app/] with the Facebook application and generate required cusotmer key and customer secret.
 * Using this customer key and customer secret as application Id and application secret in application.properties file.
 * After getting authorized by the user, fetch all the required data of the user from Facebook application and store it in any relational database(i.e, using MySQL for this application).
 * Later retrieve the stored inforamtion from the database for the given user and based on the data, display information in a graphical manner.
