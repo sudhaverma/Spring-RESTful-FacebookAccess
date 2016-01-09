@@ -19,3 +19,6 @@ I have realized that if I write down the plan for the application before a line 
 * Later retrieve the stored inforamtion from the database for the given user and based on the data, display information in a graphical manner.
 * Various other basic features of  user's Facebook data can be cloned using this application.
 * By making use of graph library displaying all the requested details to the end user.
+
+#Running the application
+* Application.java class present in the project makes the entire applicaiton executable.
