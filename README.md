@@ -1,5 +1,5 @@
 # Spring-RESTful-FacebookAccess
-Recently, I implemented a Spring application that uses Twitter's APIs to allow you to post tweets on your timeline, find top 20 tweets, search by hashtag and so on. This got me excited and this application now will use Facebook's API to do more interesting things with the data that facebook shares. You can find the Spring twitter application [here](https://github.com/sudhaverma/Spring-RESTtful-Twitter-Application).
+Recently, I implemented a Spring application that uses Twitter's APIs to allow you to post tweets on your timeline, find top 20 tweets, search by hashtag and so on. This got me excited and this application now will use Facebook's API to do more interesting things with the data that facebook shares. You can find the Spring twitter application [here](https://github.com/sudhaverma/Spring-RESTful-Twitter-Application).
 
 # Plan
 
